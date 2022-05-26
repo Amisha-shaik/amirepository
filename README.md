@@ -1,3 +1,3 @@
-# amirepository
+# indurepository
 
 this is amisha
